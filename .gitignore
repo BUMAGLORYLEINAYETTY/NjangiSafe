@@ -1,15 +1,2 @@
-# Secrets (On liste le fichier précis au lieu de mettre *.json)
-serviceAccountKey.json
-*.key
-
-# Dépendances
 node_modules/
-
-# Android / IDE
-.idea/
-.gradle/
-build/
-*.iml
-
-.envgit add index.js
-git commit -m "Add main entry point index.js"
+.env
